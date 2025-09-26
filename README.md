@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Pavithra, a student of Electronics and Communication Engineering (ECE) with a growing passion for software development. As I embark on my journey in the tech world, I'm eager to learn, collaborate, and contribute to exciting projects.
+👋 Hi there! I'm Pavithra, a student of Electronics and Communication Engineering (ECE) with a growing passion for software development,Embedded Systems and IOT devices. As I embark on my journey in the tech world, I'm eager to learn, collaborate, and contribute to exciting projects.
 
 
 ## 🌐 Socials:
