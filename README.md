@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Pavithraa05&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pavithraa05&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa05&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
